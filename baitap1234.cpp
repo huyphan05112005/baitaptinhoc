@@ -6,8 +6,12 @@ int main()
 {
 	int a,b;
 	char c;
-	cout<<"nhap a,b,c"<<endl;
-	cin>>a>>b>>c;
+	cout<<"nhap vao so duong a"<<endl;
+	cin>>a;
+	cout<<"nhap vao so duong a"<<endl;
+	cin>>b;
+	cout<<"nhap vao ki tu hoac so c"<<endl;
+	cin>>c;
 	//bai 1
 	if(a>0)
 		cout<<"a la so duong."<<endl;
