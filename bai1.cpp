@@ -23,9 +23,8 @@ int main()
 		cout<<"a la boi cua b va b la uoc cua a";
 	//bai 4
 	if(c<48!=c>57)
-		cout<<"Du lieu ban vua nhap"<<" "<<c<<" khong la mot ky tu so."<<endl;
+		cout<<"Du lieu ban vua nhap"<<c<<" khong la mot ky tu so."<<endl;
 	else
-		cout<<"Du lieu ban vua nhap "<<" "<<c<<" la mot ky so.";
+		cout<<"Du lieu ban vua nhap "<<c<<" la mot ky so.";
 	return 0;
-		
 }
