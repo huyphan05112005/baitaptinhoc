@@ -26,5 +26,5 @@ int main()
 		cout<<"Du lieu ban vua nhap"<<" "<<c<<" la mot ky so."<<endl;
 	else
 		cout<<"Du lieu ban vua nhap "<<" "<<c<<"khong la mot ky so.";
-		
+	return 0;
 }
