@@ -10,8 +10,7 @@ int main()
 	cin>>a;
 	cout<<"nhap vao so duong a"<<endl;
 	cin>>b;
-	cout<<"nhap vao ki tu hoac so c"<<endl;
-	cin>>c;
+	cout<<"nhap vao ki tu c"<<endl;
 	cout<<"--------------------------------"<<endl;
 	//bai 1
 	if(a>0)
