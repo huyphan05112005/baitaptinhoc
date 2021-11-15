@@ -12,6 +12,7 @@ int main()
 	cin>>b;
 	cout<<"nhap vao ki tu hoac so c"<<endl;
 	cin>>c;
+	cout<<"--------------------------------"<<endl;
 	//bai 1
 	if(a>0)
 		cout<<"a la so duong."<<endl;
