@@ -51,8 +51,7 @@ int main()
 		s5 = s5 +1.0/i5;
 	}
 	cout<<"s5 la "<<s5<<endl;
-	
-	
+	return 0;
 }
 
 
