@@ -5,6 +5,7 @@ using namespace std;
 int main()
 {
 	float a,b,c,delta,x1,x2;
+	a,b,c,delta,x1,x2 = 0;
 	cout<<"nhap vao co so a"<<endl;
 	cin>>a;
 	cout<<"nhap vao co so b"<<endl;
