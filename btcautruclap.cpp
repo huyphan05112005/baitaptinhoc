@@ -6,6 +6,7 @@ int main()
 {
 	int s1,s2,s4,n1,n2,n3,n4,n5;
 	float s3,s5;
+	s1,s2,s3,s4,s5,n1,n2,n3,n4,n5 = 0;
 	//bai1
 	cout<<"nhap vao n1"<<endl;
 	cin>>n1;
